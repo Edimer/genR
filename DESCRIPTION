@@ -1,0 +1,22 @@
+Package: genR
+Title: Computational methods for genomic statistics
+Version: 0.0.0.9000
+Authors@R: person("Edimer", "David Jaramillo", email = "edavidja@unal.edu.co", role = c("aut", "cre"))
+Description: Tool set for the exploration of genomic data. Analytical and computational methods for genomic data analysis.
+Depends: R (>= 3.4.4)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    ggplot2,
+    dplyr,
+    tidyr,
+    gridExtra
+Suggests: 
+    RColorBrewer,
+    car,
+    lubridate,
+    knitr,
+    rmarkdown
+RoxygenNote: 6.0.1
+VignetteBuilder: knitr

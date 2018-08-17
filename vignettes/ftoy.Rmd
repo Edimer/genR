@@ -1,0 +1,19 @@
+---
+title: "Package genR"
+author: "Edimer David Jaramillo"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Package genR}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+# Función `ftoy`
+
+La función genera dos variables aleatorias X y Y, de distribución normal con desviación estándar igual a 1 y medias 5 y 10, respectivamente. La función utiliza estos datos para graficar el diagrama de dispersión de X vs Y y el histograma de la variable aleatoria X.
+
+```{r}
+library(genR) 
+```
+
