@@ -10,12 +10,8 @@ LazyData: true
 Imports: 
     ggplot2,
     dplyr,
-    tidyr,
     gridExtra
-Suggests: 
-    RColorBrewer,
-    car,
-    lubridate,
+Suggests:
     knitr,
     rmarkdown
 RoxygenNote: 6.0.1
