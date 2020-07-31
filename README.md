@@ -9,3 +9,7 @@ library(genR) # load package
 ```
 
 # HexSticker
+
+<center>
+<img src = "genR.png" />
+</center>
