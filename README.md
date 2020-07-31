@@ -11,5 +11,5 @@ library(genR) # load package
 # HexSticker
 
 <center>
-<img src = "genR.png" />
+<img src = "genR.png" width = 200/>
 </center>
